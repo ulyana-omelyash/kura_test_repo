@@ -1,10 +1,10 @@
-# kura_test_repo
 
-![cat] (https://static.toiimg.com/photo/msid-67586673/67586673.jpg)
+
+![cat](https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg)
 
 ### size text 1 biggest - 6 smallest1.
 
-** words in bold
+**words in bold**
 
 *italics
 
